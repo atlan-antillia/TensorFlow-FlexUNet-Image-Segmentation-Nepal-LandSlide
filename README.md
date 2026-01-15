@@ -10,7 +10,7 @@ Nepal landslide dataset for semantic segmentation</a>
 <br><br>
 <b>Data Augmentation Strategy</b><br>
 To address the limited size of images and masks of the original <b>Nepal landslide dataset</b>, which contains 265  images and their corresponding masks  respectively,
-we generated  the  Augmented dataset by using a Python script<a href="./generator/ImageMaskDatasetGenerator.py">ImageMaskDatasetGenerator.py</a>.
+we generated  the  Augmented dataset by using a Python script <a href="./generator/ImageMaskDatasetGenerator.py">ImageMaskDatasetGenerator.py</a>.
 <br><br> 
 <hr>
 <b>Actual Image Segmentation for Nepal-LandSlide  Images of 512x512 pixels</b><br>
